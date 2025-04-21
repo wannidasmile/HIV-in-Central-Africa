@@ -26,3 +26,5 @@ Women Aged 15+ with HIV
 A trend line showed that the number of women aged 15 and above living with HIV rose by about 12.5% from 2008 to 2017. This underscores a growing gender-specific concern and the need for targeted intervention.
 ![Pic1](https://github.com/wannidasmile/HIV-in-Central-Africa/blob/main/Picture1.jpg)
 ![Pic2](https://github.com/wannidasmile/HIV-in-Central-Africa/blob/main/Picture2.png)
+
+Authors: CHENGWEI JIANG, JARSHANA SHRESTHA, JUNAID IFTIKHAR, WANNIDA KRUAYATIDEE
